@@ -1,4 +1,3 @@
-hello-world
-===========
+Just following the go example
 
-First Test
+
